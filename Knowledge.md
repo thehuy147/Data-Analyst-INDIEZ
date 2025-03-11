@@ -16,6 +16,6 @@
 A free game, mean free to play (F2P), can be monetized through various strategies:
    - Advertisements: Display ads and rewarded video ads. Ads can be shown between levels up or as optional rewards for players.
    - In-App Purchases (IAP): Players can buy virtual goods, costumes, power-ups to enhance their gameplay experience.
-   - Premium Upgrades: Offering a premium features or content for a one-time purchase (for example: VIP1 to VIP10 in some games,...) <br/>
+   - Premium Upgrades: Offering a premium features or content for a one-time purchase (for example: VIP1 to VIP10 in some games,...) <br/>    
 By combining these strategies, developers can create a balanced monetization approach that maximizes revenue while maintaning a positive player experience.
 
