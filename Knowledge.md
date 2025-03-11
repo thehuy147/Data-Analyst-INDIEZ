@@ -8,4 +8,14 @@
    - Daily Active User (DAU), Monthly Active User (MAU): Tracks the number of users playing the game daily and monthly
    - Retention Rate: Measures how many players return to the game after their first session (for example: week-1, month-1 retention rate,...) 
    - Average Revenue Per User (ARPU): Calculates the average revenue generated per user.
-   - Churn Rate: Measures the percentage of players who stop playing the game over a session. 
+   - Churn Rate: Measures the percentage of players who stop playing the game over a session.
+   All of the above metrics are important, some stand out more depending on the game's goals:
+   - Retention Rate (RR): High RR indicates players enjoy the game and are likely to keep playing.
+   - DAU & MAU: High active user suggest the game is engaging and popular.
+3. How to monetize a free game? <br/>
+   A free game, mean free to play (F2P), can be monetized through various strategies:
+   - Advertisements: Display ads and rewarded video ads. Ads can be shown between levels up or as optional rewards for players.
+   - In-App Purchases (IAP): Players can buy virtual goods, costumes, power-ups to enhance their gameplay experience.
+   - Premium Upgrades: Offering a premium features or content for a one-time purchase (for example: VIP1 to VIP10 in some games,...) <br/>
+   By combining these strategies, developers can create a balanced monetization approach that maximizes revenue while maintaning a positive player experience.
+
