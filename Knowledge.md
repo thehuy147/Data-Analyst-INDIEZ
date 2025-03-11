@@ -1,6 +1,6 @@
 # KNOWLEDGE
 1. What is eCPM?
-   eCPM, Effective Cost Per Mille, is a metric used to measure the estimated earnings of an ad per 1000 impressions.
+   eCPM, Effective Cost Per Mille, is a metric used to measure the estimated earnings of an ad per 1000 impressions. <br/>
    The formula to calculate eCPM is: _eCPM_ = (Total Ad Earnings/Impressions) *1000.
    For example: if an ad generates 100$ from 50.000 impressions, the eCPM = 2$.
 2. What are the metrics for a healthy mobile game? Which metrics do you think are the most important?
