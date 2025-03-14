@@ -1,4 +1,4 @@
-<img width="604" alt="image" src="https://github.com/user-attachments/assets/bf6e27c7-6c63-40a6-b677-2069bb205292" /><img width="147" alt="image" src="https://github.com/user-attachments/assets/f97607d7-e8f1-4a40-969c-aff5ac0a7e7b" /># Data-Analyst-INDIEZ
+# Data-Analyst-INDIEZ
 ### Case Study 1:
   1. All users in Russia and using Android devices are playing the game with version 1.5.2.
   2. Imagine you are a LiveOps team member and after working on data of game version 1.5.2, you found that the tutorial
