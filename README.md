@@ -26,7 +26,7 @@ Python (pandas, numpy,...)
 **PROBLEM SOLVING <br/>**
 The goal of this analysis is to determine if the changes in version 1.6.0, particularly in the tutorial, have impacted the User Experience compared to the 1.5.2 version.
 
-1. How can we know if the improvement of Tutorial in-game version 1.6.0 has impacted the User Experience (UE) better
+1. How can we know if the improvement of Tutorial in-game version 1.6.0 has impacted the User Experience (UX) better
 than in-game version 1.5.2? <br/>
  The improvement of the Tutorial has impacted the UE through these key performance indicator, Daily Active User (DAU), Tutorial Complete Rate (TCR) and Retation Rate (compare day 1 to day 7) <br/>
  **a) The Tutorial Complete Rate (TCR):**
@@ -53,6 +53,14 @@ The TCR shows that the new tutorial is effective. <br/> <br/>
 **Recommendation:** <br/>
 - Before releasing a new version, it's necessary to let veteran players, testers, and those who understand all the metrics of this game experience the beta version first. Then, adjust all the metrics before finally rolling it out. 
 - When rolling out a new version, besides improving the game tutorial to attract new players, it's important to add features and missions to create challenges for existing players in order to enhance the user experience.
+
+3. My opinion to improve the User Experience (UX): <br/>
+<img width="280" alt="image" src="https://github.com/user-attachments/assets/0562c3fa-c3e7-44a4-bf87-8586037ff405" /> <img width="280" alt="image" src="https://github.com/user-attachments/assets/053d33b7-bad4-41fe-b061-05008e62e683" /> <br/>
+
+- When players lose, consider giving them an option to use their hint. For example, light up the hint lamp when they only have 1 life or allow them to watch an ad to access the hint.
+- The frequency of ads after winning a level becomes excessive from level 10 onward. Based on my experience, I recommend reducing it to 1 ad every 2 or 3 levels.
+- To support monetization, you could add a flashing effect to the ads block icon. However, it's important to proceed with caution, as this might create distractions and adversely affect the user experience (UX).
+
 
 
 ### Case Study 3:
